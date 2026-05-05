@@ -58,10 +58,9 @@ The plugin scans the plugin folder for any `.ttf` / `.otf` and picks the first o
 
 Open a PR against this repo or post your translated JSON as an issue — I'll help package and link to it from the main installer. Or ship it yourself on GitHub / Nexus.
 
-## Existing translations (9 languages)
+## Existing translations (10 languages)
 
-Korean · Russian · Ukrainian · Belarusian · German · Spanish · French · Portuguese · Norwegian
-(Traditional Chinese in progress.)
+Korean · Russian · Ukrainian · Belarusian · German · Spanish · French · Portuguese · Norwegian · Traditional Chinese
 
-One-click installer for the released ones:
+One-click installer:
 https://github.com/9138noms/NuclearOption-LocalizationInstaller/releases/latest
